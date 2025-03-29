@@ -1,0 +1,15 @@
+venv/
+Lib/
+Include/
+Scripts/
+_build/
+_static/
+_templates/
+
+*.pyc
+__pycache__/
+
+.DS_Store
+Thumbs.db
+
+pyvenv.cfg

@@ -75,4 +75,4 @@ funcao(texto, isArquivo=args.arquivo)
 # print("\n- Estilo de texto riscado: ")
 # estilo.estilo_riscado("Exemplo de texto String.")
 # estilo.estilo_riscado(arquivo, isArquivo=True)
-
+  
